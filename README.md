@@ -1,5 +1,5 @@
 # 💫 About Me:
-im in my 3rd year of btech in CSE<br>🔭 I’m currently working on my self built projects maintaing them using github<br>👯 I’m looking to collaborate on open source and finds it interesting <br>🌱 I’m currently learning open source <br>⚡ Fun fact
+im in my 3rd year of btech in CSE<br>🔭 I’m currently working on my self built projects maintaing them using github<br>👯 I’m looking to collaborate on open source and finds it interesting <br>🌱 I’m currently learning open source <br>⚡
 
 
 ## 🌐 Socials:
