@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm in my 3rd year of btech in CSE<br>🔭 I’m currently working on my self built projects maintaing them using github<br>👯 I’m looking to collaborate on open source and finds it interesting <br>🌱 I’m currently learning open source <br>
-.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavikxjain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavikxjain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bj541023@gmail.com) 
