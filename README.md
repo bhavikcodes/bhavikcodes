@@ -1,6 +1,10 @@
 # 💫 About Me:
-I'm in my 3rd year of btech in CSE<br>🔭 I’m currently working on my self built projects maintaing them using github<br>👯 I’m looking to collaborate on open source and finds it interesting <br>🌱 I’m currently learning open source <br>
-
+👋 Hey! I’m a 3rd-year BTech CSE student focused on becoming a solid software engineer. <br>
+🔭 I Love to build and maintain self-driven projects using GitHub, following clean code and proper workflows.<br>
+🧠 Strong skill set in Data Structures & Algorithms, with regular problem-solving to sharpen fundamentals.<br>
+💻 Passionate about web development, working across frontend and backend to build end-to-end products.<br>
+🌍 Actively exploring and contributing to open source, learning how real-world systems are built and maintained.<br>
+👯 Always open to collaborating on meaningful projects, open-source contributions, and dev-centric ideas.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavikxjain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavikxjain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bj541023@gmail.com) 
