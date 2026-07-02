@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey! I’m a 3rd-year BTech CSE student focused on becoming a solid software engineer. <br>
+👋 Hey! I’m a 4th-year BTech CSE student focused on becoming a solid software engineer. <br>
 🔭 I Love to build and maintain self-driven projects using GitHub, following clean code and proper workflows.<br>
 🧠 Strong skill set in Data Structures & Algorithms, with regular problem-solving to sharpen fundamentals.<br>
 💻 Passionate about web development, working across frontend and backend to build end-to-end products.<br>
